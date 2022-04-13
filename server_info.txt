@@ -1,1 +1,1 @@
-ssh ec2-user@54.88.113.251
+ssh -i ./server.pem ubuntu@54.88.113.251
